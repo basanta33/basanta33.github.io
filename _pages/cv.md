@@ -11,7 +11,7 @@ author_profile: true
 	</head>
 	<body>
 		<iframe
-			src="/viewer/web/viewer.html?file=/files/Satler_cv.pdf#fitH"
+			src="/viewer/web/viewer.html?file=/files/Khakurel_CV.pdf#fitH"
 			width="100%"
 			height="600px"
 			style="border: none;"
