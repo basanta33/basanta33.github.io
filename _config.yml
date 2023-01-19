@@ -46,7 +46,7 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
+        #atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "basantakhakurel"
 facebook:
   username               :
   app_id                 :
@@ -99,10 +99,10 @@ author:
   github           : "basanta33"
   google_plus      :
   keybase          :
-  instagram        : "basanta._._"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "basanta-khakurel"
+  linkedin         : #"basanta-khakurel"
   orcid            : "https://orcid.org/0000-0003-0511-2215"
   pinterest        :
   soundcloud       :
