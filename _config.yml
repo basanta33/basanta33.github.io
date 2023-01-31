@@ -5,8 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme: dieghernan/chulapa
+
 # Site Settings
-theme                    : "chulapa-jekyll"
+
 locale                   : "en-US"
 title                    : "Basanta Khakurel"
 title_separator          : "-"
