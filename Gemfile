@@ -10,7 +10,6 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
-gem "chulapa-jekyll"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -26,7 +25,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
-gem install 'chulapa-jekyll'
+
 gem "webrick", "~> 1.8"
 
 gem "bcrypt-ruby", "~> 3.1"
