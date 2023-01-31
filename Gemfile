@@ -26,7 +26,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
-
+gem install 'chulapa-jekyll'
 gem "webrick", "~> 1.8"
 
 gem "bcrypt-ruby", "~> 3.1"
