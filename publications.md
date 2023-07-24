@@ -7,9 +7,11 @@ permalink: /papers/
 
 **In-Prep:**
 
-**Khakurel B**, Nikolakis ZL, Crother B, Wright AM. InPrep. Species Delimitation in Eastern Pine snakes *(Pituophis melanoleucus)*
+**Khakurel B**, Nikolakis ZL, Crother B, Wright AM. In Review. Species Delimitation in Eastern Pine snakes *(Pituophis melanoleucus)*
 
-**Khakurel B**, Grigsby C, Tran T, Zariwala J, Höhna S, Wright AM. InPrep. The fundamental role of character coding in Bayesian morphological phylogenetics
+**Khakurel B**, Grigsby C, Tran T, Zariwala J, Höhna S, Wright AM. In Review. The fundamental role of character coding in Bayesian morphological phylogenetics
+
+**Khakurel B**, Pett W, Heath T, Wright AM. In Prep. Site-Heterogeneous Character Change Models for Morphology.
 
 **Journal articles:**
 
