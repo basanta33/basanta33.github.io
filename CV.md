@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 # Basanta Khakurel
-Masters Candidate at Southeastern Louisiana University. 
+Masters Graduate from Southeastern Louisiana University. 
 
 <div id="webaddress">
 <a href="basantakhakurel@gmail.com">basantakhakurel@gmail.com</a>
@@ -66,6 +66,14 @@ Sophomore Honors Distinction, *Honors Dearment at Southeastern Louisiana Univers
 ## Publications
 
 A list is also available [online](https://scholar.google.com/citations?user=V3y1PQcAAAAJ&hl=en)
+
+## In-Prep:
+
+**Khakurel B**, Nikolakis ZL, Crother B, Wright AM. In Review. Species Delimitation in Eastern Pine snakes *(Pituophis melanoleucus)*
+
+**Khakurel B**, Grigsby C, Tran T, Zariwala J, Höhna S, Wright AM. In Review. The fundamental role of character coding in Bayesian morphological phylogenetics
+
+**Khakurel B**, Pett W, Heath T, Wright AM. In Prep. Site-Heterogeneous Character Change Models for Morphology.
 
 ### Journals
 
