@@ -31,12 +31,12 @@ Computational Biology, Phylogenetics.
 
 ## Education
 
-`May 2021 - now`
+`May 2021 - August 2023`
 Masters of Science in Biology
 
 __Southeastern Louisiana University, Hammond, LA.__
 
-`2017-2021`
+`August 2017- May 2021`
 Bachelors of Science in Biology
 __Southeastern Louisiana University, Hammond, LA.__
 
