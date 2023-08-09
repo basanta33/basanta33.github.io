@@ -7,6 +7,8 @@ permalink: /cv/
 # Basanta Khakurel
 
 A pdf of my thesis can be found [here](https://github.com/basanta33/basanta33.github.io/blob/master/assets/CV_Basanta.pdf)
+
+
 Masters Graduate from Southeastern Louisiana University. 
 
 <div id="webaddress">
