@@ -9,6 +9,6 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - projects.md
+  - research.md
   - CV.md
   - publications.md
