@@ -48,6 +48,7 @@ __Southeastern Louisiana University, Hammond, LA.__
 ## Awards
 
 `2023`
+
 SSB Travel Award, *Society of Systematic Biologists*
 
 `2022`
@@ -78,7 +79,7 @@ A list is also available [online](https://scholar.google.com/citations?user=V3y1
 
 **Khakurel B**, Pett W, Heath T, Wright AM. In Prep. Site-Heterogeneous Character Change Models for Morphology.
 
-### Journals
+## Published:
 
 `2022`
 Genomic data support the taxonomic validity of Middle American livebearera *Poeciliopsis gracilis* and *Poeciliopsis pleurospilus* (Cyprinodontiformes: Poeciliidae)
@@ -86,15 +87,27 @@ Genomic data support the taxonomic validity of Middle American livebearera *Poec
 
 ## Experiences
 
-`2018 - 2019`
-__Student Assistant at Sims Memorial Library__, Hammond, LA
+`2023 - Present`
+__Graduate Research Assistant at Höhna Lab__, Ludwig-Maximilians-Universität München
+
+
+`2021 - 2023`
+__Graduate Research Assistant at Wright Lab SELU__, Southeastern Louisiana University, Hammond, LA
+
+`2019 - 2021`
+__Undergraduate Research Assistant at Wright Lab SELU__, Southeastern Louisiana University, Hammond, LA
 
 
 `2019 - 2019`
-__STEM Student Worker at Upward Bound Math-Science and Gear-Up LA__, Hammond, LA
+__STEM Student Worker at Upward Bound Math-Science and Gear-Up LA__, Southeastern Louisiana University, Hammond, LA
 
-`2019 - 2021`
-__Undergraduate Research Assistant at Wright Lab SELU__, Hammond, LA
+
+`2018 - 2019`
+__Student Assistant at Sims Memorial Library__, Southeastern Louisiana University, Hammond, LA
+
+
+
+
 
 ### Footer
 <div id="webaddress">
