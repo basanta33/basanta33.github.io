@@ -8,8 +8,7 @@ permalink: /cv/
 
 A pdf of my CV can be found [here](https://github.com/basanta33/basanta33.github.io/blob/master/assets/CV_Basanta.pdf)
 
-
-Masters Graduate from Southeastern Louisiana University. 
+PhD Student with [Dr. Sebastian Höhna](https://hoehnalab.github.io//) at Ludwig-Maximilians-Universität München. 
 
 <div id="webaddress">
 <a href="basantakhakurel@gmail.com">basantakhakurel@gmail.com</a>
@@ -19,9 +18,9 @@ Masters Graduate from Southeastern Louisiana University.
 
 ## Currently
 
-Graduate Research Assistant at Wright Lab SELU
+Graduate Research Assistant at Höhna Lab
 
-Southeastern Louisiana University
+Ludwig-Maximilians-Universität München
 
 ### Specialized in
 
@@ -97,7 +96,8 @@ __STEM Student Worker at Upward Bound Math-Science and Gear-Up LA__, Hammond, LA
 `2019 - 2021`
 __Undergraduate Research Assistant at Wright Lab SELU__, Hammond, LA
 
-
 ### Footer
-
-Last updated: February 2023
+<div id="webaddress">
+<a href="basantakhakurel@gmail.com">CONTACT-ME</a>
+| <a href="https://twitter.com/basantakhakurel">Connect in X (Formerly Twitter)</a>
+</div>
