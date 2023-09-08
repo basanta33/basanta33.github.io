@@ -24,12 +24,12 @@ Ludwig-Maximilians-Universität München
 
 ### Specialized in
 
-[RevBayes](https://revbayes.github.io/), Bayesian statistics, Phylogenetics, Systematics
+[RevBayes](https://revbayes.github.io/), Bayesian statistics, Morphological Phylogenetics, Systematics
 
 
 ### Research interests
 
-Computational Biology, Phylogenetics.
+Computational Biology, Morphological Phylogenetics.
 
 
 ## Education
