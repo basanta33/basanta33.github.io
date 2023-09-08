@@ -3,6 +3,8 @@ layout: home
 ---
 
 ### My name is Basanta Khakurel. 
+
+
 ![BK_DINO](/assets/img/BK_Dino.jpg){:style="float: center;"}
 
 I am from Kathmandu, Nepal. I moved to Hammond, Louisiana on Fall 2017 for my Bachelor's degree in Biological Sciences from Southeastern Louisiana University. 
