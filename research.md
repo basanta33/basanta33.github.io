@@ -9,7 +9,7 @@ My research has been mostly focusing on the morphological models for character e
 
 Below are the projects I have worked in:
 
-### 1. Species Delimitation of the Eastern Pinenskae complex.
+### 1. Species Delimitation of the Eastern Pinesnake complex.
 
 The eastern Pinesnake (_Pituophis melanoleucus_) is found throughout eastern United States. Taxonomy in this group has been controversial with several conflicting species designations. 
 Three subspecies of the eastern Pinesnake have been prevalant in the literature to their geographic locations and scale coloration: the northern Pinesnake (_P. m. melanoleucus_), the Florida Pinesnake (_P. m. mugitus_), and the Black Pinesnake (_P. m. lodingi_). 
