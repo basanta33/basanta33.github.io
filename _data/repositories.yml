@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - basanta33
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - revbayes/revbayes
+  - revbayes/RevGadgets
+  - basanta33/Pituophis_
+  - federico-busato/Modern-CPP-Programming
+  - oschwery/FBD_PPS
+  - stromtutorial/stromtutorial.github.io
+  - blackrim/treePL

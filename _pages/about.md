@@ -1,25 +1,38 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student at <a href='https://www.lmu.de'>LMU-Munich</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>D108</p>
+    <p>Richard Wagner Straβe 10</p>
+    <p>Munich, Germany, 80333.</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+posts: false
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hello!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website. My name is Basanta Khakurel.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am from Kathmandu, Nepal. I moved to Hammond, Louisiana on Fall 2017 for my Bachelor's degree in Biological Sciences from Southeastern Louisiana University.
+I worked with [Dr. April Wright](https://wright-lab.com/) on eastern Pine snakes for my Bachelor's Thesis.
+By that time I had already started enjoying working in the Wright Lab so I decided to stay there for my Master's.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For my Master's thesis, I worked on using morphological data to infer phylogenetic tree using Bayesian methods.
+I performed experiments on testing the effect of morphological state space in inferring phylogenies.
+I also tested a novel model that allowed for different stationary frequencies using posterior predictive approaches.
+My thesis can be found [here](/assets/pdf/Khakurel_MasterThesis.pdf).
+
+I am currently working with [Dr. Sebastian Hoehna](https://hoehnalab.github.io/) in LMU-Munich, Germany.
+Here, I will be working on more robust models for inferring phylogenetic trees morphological data.
+
+This website is actively under construction.
+If you find any typos please feel free to email me. Thank you!
