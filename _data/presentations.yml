@@ -1,0 +1,12 @@
+presentations:
+  - title: "Characters changing speed: the Covariomorph model and its impact on phylogenetic trees"
+    conference: "Evolution 2025, Athens, GA"
+    date: "2025-06-23"
+    type: "Talk"
+    link: "/assets/presentations/Evolution2025_Talk.pdf"
+
+  - title: "Characters changing speed: the Covariomorph model and its impact on phylogenetic trees"
+    conference: "ESEB 2025, Barcelona, ES"
+    date: "2025-08-18"
+    type: "Poster Presentation"
+    link: "/assets/presentations/ESEB2025_Poster.pdf"
