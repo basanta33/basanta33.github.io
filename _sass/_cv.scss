@@ -8,6 +8,11 @@ div.container-link-button {
 
 table.table-cv {
   background-color: transparent !important;
+
+  td,
+  th {
+    padding: 1px;
+  }
 }
 
 a.btncv {
@@ -121,7 +126,7 @@ td.list-group-category-icon {
   padding-right: 0.4rem;
 }
 
-td.list-group-name {
+td.list-group-name {padding-bottom: 3rem;
   font-size: 0.8rem;
 }
 
