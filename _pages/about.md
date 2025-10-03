@@ -13,7 +13,7 @@ profile:
     <p>Richard Wagner Straβe 10</p>
     <p>Munich, Germany, 80333.</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -26,11 +26,10 @@ latest_posts:
   scrollable: true 
   limit: 3
 ---
+
 Hello!
 
-Welcome to my website.
-
-My name is Basanta Khakurel, and I am a computational biologist and evolutionary biologist from Kathmandu, Nepal. 
+Welcome to my website. My name is Basanta Khakurel, and I am a computational biologist and evolutionary biologist from Kathmandu, Nepal. 
 
 I am currently a Ph.D. candidate at Ludwig Maximilianas-Universität München (LMU-Munich), where I work in the lab of [Dr. Sebastian Höhna](https://hoehnalab.github.io/).
 My doctoral research is focused on developing robust statistical models for phylogentic inferences using morphological data.
