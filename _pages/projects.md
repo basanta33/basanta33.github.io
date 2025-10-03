@@ -1,9 +1,8 @@
-<!--->
 ---
 layout: page
 title: Projects
 permalink: /projects/
-description: This is the page with some projects I have worked and have been working with.
+description: Some projects I have been a part of.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
