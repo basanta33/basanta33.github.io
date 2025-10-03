@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-$(document).ready(function () {
-  // Override styles of the footnotes.
-=======
 $(window).on("load", function () {
->>>>>>> upstream/main
   document.querySelectorAll("d-footnote").forEach(function (footnote) {
     footnote.shadowRoot.querySelector("sup > span").setAttribute("style", "color: var(--global-theme-color);");
     footnote.shadowRoot

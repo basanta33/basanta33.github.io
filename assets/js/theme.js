@@ -45,14 +45,11 @@ let applyTheme = () => {
     setEchartsTheme(theme);
   }
 
-<<<<<<< HEAD
-=======
   // if Plotly is not defined, do nothing
   if (typeof Plotly !== "undefined") {
     setPlotlyTheme(theme);
   }
 
->>>>>>> upstream/main
   // if vegaEmbed is not defined, do nothing
   if (typeof vegaEmbed !== "undefined") {
     setVegaLiteTheme(theme);
@@ -182,8 +179,6 @@ let setEchartsTheme = (theme) => {
   });
 };
 
-<<<<<<< HEAD
-=======
 let setPlotlyTheme = (theme) => {
   document.querySelectorAll(".js-plotly-plot").forEach((elem) => {
     // Get the code block content from previous element, since it is the plotly code itself as defined in Markdown, but it is hidden
@@ -225,7 +220,6 @@ let setPlotlyTheme = (theme) => {
   });
 };
 
->>>>>>> upstream/main
 let setVegaLiteTheme = (theme) => {
   document.querySelectorAll(".vega-lite").forEach((elem) => {
     // Get the code block content from previous element, since it is the vega lite code itself as defined in Markdown, but it is hidden

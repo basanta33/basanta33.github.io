@@ -2136,11 +2136,7 @@ d-appendix > distill-appendix {
 }
 
 .citation {
-<<<<<<< HEAD
-  color: hsla(206, 90%, 20%, 0.7);
-=======
   color: var(--global-theme-color);
->>>>>>> upstream/main
 }
 
 .citation-number {
@@ -2148,11 +2144,7 @@ d-appendix > distill-appendix {
   white-space: nowrap;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", Helvetica, sans-serif;
   font-size: 75%;
-<<<<<<< HEAD
-  color: hsla(206, 90%, 20%, 0.7);
-=======
   color: var(--global-theme-color);
->>>>>>> upstream/main
   display: inline-block;
   line-height: 1.1em;
   text-align: center;
@@ -2604,11 +2596,7 @@ d-citation-list .references .title {
           var env = {
             callback: callback,
             container: container,
-<<<<<<< HEAD
-            selector: 'code[class*="language-"], [class*="language-"] code, code[class*="lang-"], [class*="lang-"] code',
-=======
             selector: 'd-code',
->>>>>>> upstream/main
           };
 
           _.hooks.run("before-highlightall", env);
@@ -4289,11 +4277,7 @@ sup {
 }
 
 span {
-<<<<<<< HEAD
-  color: hsla(206, 90%, 20%, 0.7);
-=======
   color: var(--global-theme-color);
->>>>>>> upstream/main
   cursor: default;
 }
 
@@ -4462,16 +4446,6 @@ d-footnote-list a.footnote-backlink {
   top: 0;
   left: 0;
   width: 100%;
-<<<<<<< HEAD
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  background-color: rgba(250, 250, 250, 0.95);
-  box-shadow: 0 0 7px rgba(0, 0, 0, 0.1);
-  border-radius: 4px;
-  box-sizing: border-box;
-
-  backdrop-filter: blur(2px);
-  -webkit-backdrop-filter: blur(2px);
-=======
   /* Original styles retained and new theming variables added */
   border: 1px solid var(--global-divider-color); /* Themed border */
   background-color: var(--global-card-bg-color); /* Themed background */
@@ -4492,7 +4466,6 @@ d-footnote-list a.footnote-backlink {
 .panel a:hover {
   color: var(--global-hover-color);
   text-decoration: underline;
->>>>>>> upstream/main
 }
 
 </style>
