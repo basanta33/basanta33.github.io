@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Species Delimitation on Eastern Pinesnakes
-description:
-img: assets/img/pinesnakes_2.png
+description: Population structure of Eastern pinesnake complex
+img: assets/img/pinesnake_intro.png
 importance: 1
 category: work
 related_publications: false
@@ -14,7 +14,7 @@ This project aimed to test the validity of these subspecies using modern genomic
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pinesnakes_2.png" title="pinesnake range" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pinesnakes_2.png" title="pinesnake phylogeny" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,4 +27,4 @@ Our analyses suggested the existence of significant population structure that ma
 
 This work was published in the _Bulletin of the Society of Systematic Biologists_.
 
-**Khakurel, B.**, Nikolakis, Z. L., Crother, B. I., & Wright, A. M. (2023). Species Delimitation of Eastern Pinesnake complex (_Pituophis melanoleucus_). Bulletin of the Society of Systematic Biologists. DOI: https://doi.org/10.18061/bssb.v2i1.9423
+**Khakurel, B.**, Nikolakis, Z. L., Crother, B. I., & Wright, A. M. (2023). Species Delimitation of Eastern Pinesnake complex (_Pituophis melanoleucus_). Bulletin of the Society of Systematic Biologists. DOI: [https://doi.org/10.18061/bssb.v2i1.9423](https://doi.org/10.18061/bssb.v2i1.9423)
