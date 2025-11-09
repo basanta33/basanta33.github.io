@@ -53,7 +53,7 @@ This project commenced on May 2025, and is projected to conclude on April 2026.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/school_example.jpg" title="siddha school classroom" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/school_example.jpg" zoomable="true" title="siddha school classroom" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

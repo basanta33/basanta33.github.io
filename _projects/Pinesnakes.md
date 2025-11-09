@@ -14,7 +14,7 @@ This project aimed to test the validity of these subspecies using modern genomic
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pinesnakes_2.png" title="pinesnake phylogeny" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid zoomable="true" loading="eager" path="assets/img/pinesnakes_2.png" title="pinesnake phylogeny" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
