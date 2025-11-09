@@ -7,6 +7,7 @@ importance: 2
 category: fun
 related_publications: false
 ---
+
 Not science but a project I have been a part of alongside some members of Himalayan Pariwar e.V. Munich (Prakash Subedi, Samundra Dhakal, Saurav Dahal, Sristi Gahire, and Robin Karki).
 Feel free to get in touch if you have any questions regarding this project. I will be updating with more details here towards the end of the project.
 
@@ -32,6 +33,7 @@ Our goal is simple: **Turn dreams into reality for deaf children across Nepal by
 ---
 
 ### Key Objectives
+
 This project commenced on May 2025, and is projected to conclude on April 2026.
 
 1.  **Develop Accessible Learning Materials**

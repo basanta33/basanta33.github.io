@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 permalink: /gallery/
 nav: true
-nav_order: 6 
+nav_order: 6
 ---
 
 I sometimes like to take pictures. Here are some of my favorites.
@@ -98,8 +98,7 @@ I sometimes like to take pictures. Here are some of my favorites.
     {% include figure.liquid path="assets/img/photos/firework_3.JPG" class="img-fluid rounded" zoomable="true" caption="" %}
   </div>
 
-</div> 
----
+## </div>
 
 <p class="text-center text-muted">
   My instagram can be found <a href="https://www.instagram.com/khakurelbasanta/">here.</a> 

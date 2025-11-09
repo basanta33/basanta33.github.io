@@ -27,8 +27,9 @@ horizontal: false
       </p>
 
       <a href="{{ item.link }}" class="btn btn-primary mt-auto" target="_blank">View PDF</a>
-      
+
     </div>
+
   </div>
 
 {% endfor %}
