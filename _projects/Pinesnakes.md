@@ -5,7 +5,7 @@ description:
 img: assets/img/pinesnakes_2.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 The classification of the eastern Pinesnake (_Pituophis melanoleucus_) has long been a subject of debate in the scientific community. 
