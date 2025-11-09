@@ -14,6 +14,7 @@ horizontal: false
 <div class="presentations d-flex flex-wrap flex-column">
 
 {% for item in site.data.presentations.presentations %}
+
   <div class="card p-3 mb-3 shadow-sm">
     <h4>{{ item.title }}</h4>
     <p><strong>Conference:</strong> {{ item.conference }}<br>

@@ -30,9 +30,7 @@
       "startDate": "2023-09-01",
       "endDate": "",
       "summary": "Working towards a PhD degree.",
-      "highlights": [
-        "Bayesian Phylogenetics"
-      ]
+      "highlights": ["Bayesian Phylogenetics"]
     }
   ],
   "education": [
@@ -45,9 +43,7 @@
       "startDate": "2023-09-01",
       "endDate": "",
       "score": "",
-      "courses": [
-        "Exploration of more robust morphological models for Bayesian Phylogenetic Inference"
-      ]
+      "courses": ["Exploration of more robust morphological models for Bayesian Phylogenetic Inference"]
     },
     {
       "institution": "Southeastern Lousiana University, Hammond, Louisiana, US",
@@ -58,9 +54,7 @@
       "startDate": "2021-06-08",
       "endDate": "2023-07-07",
       "score": "4.0",
-      "courses": [
-        "Inference of Phylogeny Using Discrete Morphological Characters"
-      ]
+      "courses": ["Inference of Phylogeny Using Discrete Morphological Characters"]
     },
     {
       "institution": "Southeastern Lousiana University, Hammond, Louisiana, US",
@@ -71,9 +65,7 @@
       "startDate": "2017-07-13",
       "endDate": "2021-05-15",
       "score": "3.8",
-      "courses": [
-        "Species delimitation on the Eastern Pinesnake complex"
-      ]
+      "courses": ["Species delimitation on the Eastern Pinesnake complex"]
     }
   ],
   "certificates": [
@@ -162,10 +154,7 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
