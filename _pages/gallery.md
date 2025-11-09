@@ -86,7 +86,6 @@ I sometimes like to take pictures. Here are some of my favorites.
     {% include figure.liquid path="assets/img/photos/peacock.JPG" class="img-fluid rounded" zoomable="true" caption="Peacock" %}
   </div>
 
-
   <div class="col-md-4 mb-4">
     {% include figure.liquid path="assets/img/photos/firework_1.JPG" class="img-fluid rounded" zoomable="true" caption="" %}
   </div>
