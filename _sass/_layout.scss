@@ -38,6 +38,12 @@ body.sticky-bottom-footer {
   }
 }
 
+.footer {
+  // Use the theme's global CSS variables
+  background-color: var(--global-footer-bg-color);
+  color: var(--global-footer-text-color);
+  // ... all other styles like 'font-size', 'padding', etc.
+}
 // TODO: redefine content layout.
 
 /******************************************************************************

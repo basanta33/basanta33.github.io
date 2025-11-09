@@ -11,17 +11,26 @@ horizontal: false
 
 ## Conference Presentations
 
-<div class="presentations d-flex flex-wrap flex-column">
+<div class="row">
 
 {% for item in site.data.presentations.presentations %}
 
-  <div class="card p-3 mb-3 shadow-sm">
-    <h4>{{ item.title }}</h4>
-    <p><strong>Conference:</strong> {{ item.conference }}<br>
-       <strong>Date:</strong> {{ item.date }}<br>
-       <strong>Type:</strong> {{ item.type }}</p>
-    <a href="{{ item.link }}" class="btn btn-primary" target="_blank">View PDF</a>
+  <div class="col-lg-6 mb-4">
+    
+    <div class="card p-3 shadow-sm h-100 d-flex flex-column">
+
+      <h4>{{ item.title }}</h4>
+      <p>
+        <strong>Conference:</strong> {{ item.conference }}<br>
+        <strong>Date:</strong> {{ item.date }}<br>
+        <strong>Type:</strong> {{ item.type }}
+      </p>
+
+      <a href="{{ item.link }}" class="btn btn-primary mt-auto" target="_blank">View PDF</a>
+      
+    </div>
   </div>
+
 {% endfor %}
 
 </div>

@@ -1,9 +1,7 @@
 # this file contains the social media links and usernames of the author
-# the commented lines are the default social media links supported by the template
-# the socials will be displayed in the order they are defined here
 
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
-#  organization: lmu-munich # your organization as appears in the subdomain
+# organization: lmu-munich # your organization as appears in the subdomain
 #  username:  BasantaKhakurel # your username
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
@@ -13,7 +11,7 @@ bluesky_url: https://bsky.app/profile/basantakhakurel.bsky.social
 email: basantakhakurel@gmail.com
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: basantakhakurel
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
