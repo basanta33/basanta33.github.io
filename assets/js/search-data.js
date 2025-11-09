@@ -57,9 +57,14 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-species-delimitation-on-eastern-pinesnakes",
           title: 'Species Delimitation on Eastern Pinesnakes',
-          description: "",
+          description: "Population structure of Eastern pinesnake complex",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Pinesnakes/";
+            },},{id: "projects-empowering-accessible-education-in-nepal",
+          title: 'Empowering Accessible Education in Nepal',
+          description: "Bridging the educational gap for hearing-impaired children in Nepal.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/accessible_education_2025/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
