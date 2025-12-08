@@ -1,5 +1,8 @@
 #!/bin/bash 
 
+# prettier formatting
+# npx prettier . --write
+
 # install all tthe necessary gems
 docker compose pull
 
