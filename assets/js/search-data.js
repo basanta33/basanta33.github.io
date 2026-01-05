@@ -72,6 +72,11 @@ ninja.data = [{
           description: "Bridging the educational gap for hearing-impaired children in Nepal.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/accessible_education_2025/";
+            },},{id: "projects-hidden-cost-of-rate-discretization",
+          title: 'Hidden cost of Rate Discretization',
+          description: "How the number of rate categories affects phylogenetic inference",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rate_prior/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
