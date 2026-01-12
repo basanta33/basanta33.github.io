@@ -10,3 +10,9 @@ presentations:
     date: "2025-08-18"
     type: "Poster Presentation"
     link: "/assets/presentations/ESEB2025_Poster.pdf"
+
+  - title: "The hidden cost of discretization: Is the default $k=4$ biasing your tree length?"
+    conference: "SSB 2026, Baton Rouge, LA"
+    date: "2026-01-09"
+    type: "Lightning Talk"
+    link: "/assets/presentations/SSB2026_Talk.pdf"
