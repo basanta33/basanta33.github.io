@@ -13,7 +13,8 @@ horizontal: false
 
 <div class="row">
 
-{% for item in site.data.presentations.presentations %}
+{% assign sorted_presentations = site.data.presentations.presentations | sort: "date" | reverse %}
+{% for item in sorted_presentations %}
 
   <div class="col-lg-6 mb-4">
     
