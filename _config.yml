@@ -25,8 +25,10 @@ back_to_top: false
 # -----------------------------------------------------------------------------
 repo_theme_light: default
 repo_theme_dark: dark
+repo_stats_url: https://github-readme-stats-sigma-five.vercel.app/api
 repo_trophies:
   enabled: true
+  url: https://github-profile-trophy-eight.vercel.app/
   theme_light: flat
   theme_dark: gitdimmed
 
@@ -309,7 +311,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
   highlightjs:
     integrity:
       css:
