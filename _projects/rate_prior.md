@@ -8,7 +8,6 @@ category: work
 related_publications: false
 ---
 
-
 Models of among-character rate variation are a cornerstone of modern phylogenetic inference.
 As the true biological distribution of rate variation among characters is unknown, e.g., it could be either a unimodal continuous distribution or simply two categories (fast vs slow), the most robust approach is yet uncertain.
 Current approaches simply assume that true rate variation is unimodal and approximate a continuous distribution of rates (e.g., Gamma or Lognormal) using a finite number of categories, 𝑘.

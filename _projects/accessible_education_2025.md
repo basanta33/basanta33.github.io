@@ -10,7 +10,6 @@ related_publications: false
 
 Not science but a project I have been a part of alongside some members of Himalayan Pariwar e.V. Munich (Prakash Subedi, Samundra Dhakal, Saurav Dahal, Sristi Gahire, and Robin Karki).
 
-
 Feel free to get in touch if you have any questions regarding this project. I will be updating with more details here towards the end of the project.
 
 In Nepal, an estimated **5.73% of school-aged children live with hearing impairment**, and their career opportunities are often painfully limited. We believe that impairment should never be a barrier to ambition.
@@ -18,6 +17,7 @@ In Nepal, an estimated **5.73% of school-aged children live with hearing impairm
 That's why **[Himalayan Pariwar Munich e.V.](https://himalayanpariwar.org)**, a Munich-based diaspora organization, initiated this project to bridge the educational gap. In partnership with **[OLE Nepal (Online Learning Exchange)](https://olenepal.org)**, we are creating a free, inclusive online learning platform to deliver high-quality educational materials in sign language.
 
 ---
+
 <div class="row">
 
 <div class="col-sm-8" markdown="1">
@@ -61,15 +61,11 @@ This project commenced on May 2025, and is projected to conclude on April 2026.
 
 {% include figure.liquid loading="eager" path="assets/img/hp_banner.png" zoomable="true" title="Project Banner" class="img-fluid rounded z-depth-1" %}
 
-
-
 <div class="caption">
   A banner I designed for <strong>Himalayan Pariwar München e.V.</strong>.
 </div>
 </div>
 </div>
-
-
 
 ---
 
