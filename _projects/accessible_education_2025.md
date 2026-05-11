@@ -4,7 +4,7 @@ title: Empowering Accessible Education in Nepal
 description: Bridging the educational gap for hearing-impaired children in Nepal.
 img: assets/img/himalayan-pariwar.png
 importance: 2
-category: fun
+category: social
 related_publications: false
 ---
 

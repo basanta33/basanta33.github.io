@@ -4,7 +4,7 @@ title: Hidden cost of Rate Discretization
 description: How the number of rate categories affects phylogenetic inference
 img: assets/img/rate_prior_intro.png
 importance: 1
-category: work
+category: academic
 related_publications: false
 ---
 
