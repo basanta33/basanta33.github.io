@@ -26,14 +26,13 @@ That's why **[Himalayan Pariwar Munich e.V.](https://himalayanpariwar.org)**, a 
 
 Himalayan Pariwar Munich e.V. has been granted **€50,000 from the GIZ Diaspora 2030 program** for this project.
 
-Our goal is simple: **Turn dreams into reality for deaf children across Nepal by empowering them with the education they deserve.**
+Our goal is simple: **Turn dreams into reality for hearing-impaired children across Nepal by empowering them with the education they deserve.**
 
 ---
 
 ### Key Objectives
 
 This project commenced on May 2025, and is projected to conclude on April 2026.
-(It has been extended till August 2026 with additional support.)
 
 1. **Develop Accessible Learning Materials**
 
@@ -111,3 +110,25 @@ Serving 28 students in an inclusive environment, this school lacks digital resou
 
 </div>
 </div>
+
+
+# <ins>Recent Progress & Key Milestones</ins>
+
+Since kicking off the project, our implementing partner Open Learning Exchange (OLE) Nepal has made incredible progress in bringing these accessible resources to life.
+
+1. **Partnership with NDFN**: We have established a formal collaboration with the National Federation of the Deaf Nepal (NDFN). They have been actively reviewing and authenticating all digital learning modules to ensure they meet the highest standards for Nepali Sign Language (NSL).
+
+2. **Content Development & Approval**: Our dedicated team of NSL experts, signers, and developers has been hard at work. We have successfully recorded and integrated NSL into 23 interactive children’s stories _(Hamro Ramailo Kathaharu)_, which have already been officially reviewed and approved by NDFN for school use!
+
+3. **Curriculum-Aligned Learning**: We have mapped the national curriculum for Grades 1–5 and have completed developing curriculum-aligned interactive "E-Paath" modules. Additionally, we have built _Sanketik sikai_, an interactive NSL dictionary tailored specifically for early-grade learners.
+
+4. **Community Engagement**: To ensure our tools are truly effective and intuitive, we have conducted on-site school surveys, usability testing directly with hearing-impaired learners, and teachers training.
+
+#### Project Extension & Additional Funding
+
+Thanks to the strong momentum and the high quality of the initial deliverables, **GIZ has officially extended our project until August 2026 and provided an additional €15,000 in funding!**
+To ensure further reach of the educational materials, we are planning to deploy the content to additional schools in Nepal.
+
+This generous extension gives us the valuable time and resources needed to further refine our learning modules, successfully deploy the necessary educational content to our additional partner schools, and ensure these educational tools leave a lasting impact for hearing-impaired children across Nepal.
+
+---
