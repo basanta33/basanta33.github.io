@@ -8,44 +8,224 @@
     - name: Email
       value: b.khakurel@lmu.de
     - name: Phone
-      value: +49-015252609529
+      value: +49-015234618794
     - name: Location
       value: Munich, Germany
+    - name: Website
+      value: basantakhakurel.github.io
     - name: Languages
       value: Nepali (Native), English (Fluent), Hindi (Fluent), German (Beginner)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Geosciences
-      institution: Ludwig Maximilians Universität München, Munich, Germany
-      year: 2023 - Present
+    - title: "PhD in Earth and Environmental Sciences"
+      institution: Ludwig-Maximilians-Universität München, Munich, Germany
+      year: 2023 - 2026 (Expected)
       description:
-        - Thesis: Exploration of more robust morphological models for Bayesian Phylogenetic Inference
-    - title: Master of Science
-      institution: Southeastern Lousiana University, Hammond, LA, US
+        - "Supervisor: Dr. Sebastian Höhna"
+        - "Thesis: Toward More Realistic Models of Morphological Evolution in Bayesian Phylogenetics"
+    - title: "Master of Science in Biology"
+      institution: Southeastern Louisiana University, Hammond, LA, US
       year: 2021 - 2023
       description:
-        - Thesis: Inference of Phylogeny Using Discrete Morphological Characters
-    - title: Bachelor of Science
-      institution: Southeastern Lousiana University, Hammond, LA, US
+        - "Supervisor: Dr. April Wright"
+        - "GPA: 4.0"
+        - "Thesis: Inference of Phylogeny Using Discrete Morphological Characters"
+    - title: "Bachelor of Science in Biology"
+      institution: Southeastern Louisiana University, Hammond, LA, US
       year: 2017 - 2021
       description:
-        - Thesis: Species delimitation on the Eastern Pinesnake complex
+        - "Minors: Chemistry and Political Science"
+        - "Advisor: Dr. April Wright"
+        - "Thesis: Species delimitation of the Eastern Pinesnake complex (Pituophis melanoleucus)"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Graduate Research Assitant
-      institution: Paleontological Museum Munich, Munich, Germany
+      institution: Höhna Lab, Dept. of Earth and Environmental Sciences, LMU München
       year: 2023 - Present
       description:
-        - Working towards a PhD degree.
-        - Focus: Bayesian Phylogenetics.
+        - Bayesian phylogenetic methods for morphological datasets
+    - title: Graduate Research Assistant
+      institution: Wright Lab, Dept. of Biological Sciences, Southeastern Louisiana University
+      year: 2021 - 2023
+      description:
+        - Explored morphological models for phylogenetic inference (discrete and continuous) using RevBayes and R
+        - Posterior predictive simulations in phylogenetics
+    - title: Undergraduate Research Assistant
+      institution: Wright Lab, Dept. of Biological Sciences, Southeastern Louisiana University
+      year: 2019 - 2021
+      description:
+        - Performed species delimitation analyses on the Eastern Pinesnake
 
-- title: Workshops & Certificates
+- title: Teaching & Mentoring
   type: time_table
   contents:
+    - title: Invited Lecturer
+      institution: LMU München, Munich, Germany
+      year: 2026
+      description:
+        - "Phylogenetic Analysis of Molecules and Morphology (Modeling Morphological Evolution)"
+    - title: Invited Lecturer
+      institution: Southeastern Louisiana University, Hammond, LA, US
+      year: 2023
+      description:
+        - "Biological Data Analysis (Simulations in Biology)"
+    - title: Summer Camp Teacher
+      institution: Upward Bound Math and Science Program, Hammond, LA, US
+      year: 2019
+      description:
+        - Taught mathematics and biology to high school students
+
+- title: Publications
+  type: time_table
+  contents:
+    # - title: "The hidden cost of discretization: how the number of rate categories affects phylogenetic inference"
+    #   institution: "Khakurel B., Capobianco A., Höhna S. · Royal Society Open Science (Submitted)"
+    #   year: 2026
+    # - title: "Character level insights on the mosaic nature of morphological evolution"
+    #   institution: "Khakurel B., Darlim G., Capobianco A., Höhna S. · Proceedings of the Royal Society B (Submitted)"
+    #   year: 2026
+    - title: "Incorporating continuous characters in joint estimation of dicynodont phylogeny"
+      institution: "Wynd B.M., Khakurel B., Kammerer C.F., Wagner P.J., Wright A.M. · Systematic Biology"
+      year: 2026
+      description:
+        - "[doi.org/10.1093/sysbio/syaf078](https://doi.org/10.1093/sysbio/syaf078)"
+    - title: "A covarion model for phylogenetic estimation using discrete morphological datasets"
+      institution: "Khakurel B., Darlim G., Capobianco A., Höhna S. · Systematic Biology"
+      year: 2026
+      description:
+        - "[doi.org/10.1093/sysbio/syag014](https://doi.org/10.1093/sysbio/syag014)"
+    - title: "Practical Guide and Review of Fossil Tip-Dating in Phylogenetics"
+      institution: "Heckeberg N., Capobianco A., Khakurel B., Darlim G., Höhna S. · Systematic Biology"
+      year: 2026
+      description:
+        - "[doi.org/10.1093/sysbio/syaf050](https://doi.org/10.1093/sysbio/syaf050)"
+    - title: "Meeting Report for the Phenoscape TraitFest 2023 with Comments on Organising Interdisciplinary Meetings"
+      institution: "Girón Duque JC, Balk M, Dahdul W, Lapp H, Mikó I, Alhajjar E, Wynd B, Tarasov S, Lawrence C, Khakurel B, Porto A, Yan L, Fluck IE, Porto D, Keating J, Borokini I, Seltmann K, Montanaro G, Mabee P · Biodiversity Information Science and Standards"
+      year: 2024
+      description:
+        - "[doi.org/10.3897/biss.8.115232](https://doi.org/10.3897/biss.8.115232)"
+    - title: "The fundamental role of character coding in Bayesian morphological phylogenetics"
+      institution: "Khakurel B., Grigsby C., Tran T.D., Zariwala J., Wright A.M. · Systematic Biology"
+      year: 2024
+      description:
+        - "[doi.org/10.1093/sysbio/syae033](https://doi.org/10.1093/sysbio/syae033)"
+    - title: "Species delimitation of the eastern Pinesnake complex (Pituophis melanoleucus)"
+      institution: "Khakurel B., Nikolakis Z.L., Crother B.I., Wright A.M. · Bulletin of the Society of Systematic Biologists"
+      year: 2023
+      description:
+        - "[doi.org/10.18061/bssb.v2i1.9423](https://doi.org/10.18061/bssb.v2i1.9423)"
+    - title: "Genomic data support the taxonomic validity of Middle American livebearers Poeciliopsis gracilis and Poeciliopsis pleurospilus (Cyprinodontiformes: Poeciliidae)"
+      institution: "Ward S.J., McMahan C.D., Khakurel B., Wright A.M., Piller K.R. · PLoS ONE"
+      year: 2022
+      description:
+        - "[doi.org/10.1371/journal.pone.0262687](https://doi.org/10.1371/journal.pone.0262687)"
+
+- title: Invited Talks
+  type: time_table
+  contents:
+    - title: "A Covarion model for Discrete Morphological Datasets — Beyond the Mk model: Addressing Heterotachy"
+      institution: "Bristol Paleobiology Group, University of Bristol"
+      year: 2026
+    - title: "Snakes, Fish, and Bayesian morphological phylogenetics"
+      institution: "PhD and PostDoc Seminar, Paleontological Museum Munich"
+      year: 2024
+    - title: "Use of Continuous Traits in Phylogenetic Estimation"
+      institution: "Departmental Seminar, Dept. of Biological Sciences, Southeastern Louisiana University"
+      year: 2023
+
+
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - title: "The impact of rate variation assumptions on phylogenetic accuracy"
+      institution: "EvoGen Munich, Munich, Germany"
+      year: 2026
+    - title: "The Hidden Cost of Discretization: Is the default k=4 biasing your tree lengths?"
+      institution: "Society of Systematic Biologists Meeting, Baton Rouge, LA, USA"
+      year: 2026
+    - title: "Characters changing speed: the Covariomorph model and its impact on phylogenetic trees (Poster)"
+      institution: "ESEB 2025 Congress, Barcelona, Spain"
+      year: 2025
+    - title: "Characters changing speed: the Covariomorph model and its impact on phylogenetic trees"
+      institution: "Evolution Meetings, Athens, GA, USA"
+      year: 2025
+    - title: "An Efficient Heterotachy Model for Morphological Phylogenetics"
+      institution: "3rd Joint Congress on Evolutionary Biology, Montréal, Canada"
+      year: 2024
+    - title: "Evidence of covarion rate variation in empirical morphological datasets (Poster)"
+      institution: "Palaeontological Association Annual Meeting, Erlangen, Germany"
+      year: 2024
+    - title: "Potential and Perils in Using Morphological Characters for Phylogenetic Inference (Poster)"
+      institution: "Heckeberg N., Capobianco A., Darlim G., Khakurel B., Höhna S. · Palaeontological Association Annual Meeting, Cambridge, UK"
+      year: 2023
+    - title: "Model Adequacy in Morphological Data"
+      institution: "Society of Systematic Biologists Meeting, Mexico City, Mexico"
+      year: 2023
+    - title: "Use of Continuous Traits in Phylogenetic Estimation"
+      institution: "Evolution Meetings, Albuquerque, NM, USA"
+      year: 2023
+    - title: "Incorporating Continuous Characters in Total-Evidence Phylogenetic Estimation of Extinct Lineages"
+      institution: "Wynd B.M., Khakurel B., Wright A.M. · GSA Connects Meeting, Pittsburgh, PA, USA"
+      year: 2023
+    - title: "Species Delimitation in Eastern Pine Snakes (Pituophis melanoleucus)"
+      institution: "Evolution Meetings, Cleveland, OH, USA"
+      year: 2022
+    - title: "Adequacy of Fossilised Birth-Death Models: A Test Case in Ants"
+      institution: "Schwery O., Khakurel B., Wright A.M. · Evolution Meetings, Cleveland, OH, USA"
+      year: 2022
+    - title: "Species Delimitation in Eastern Pine Snakes (Pituophis melanoleucus)"
+      institution: "LBRN 8th Computational Biology and Bioinformatics Meeting, Baton Rouge, LA, USA"
+      year: 2021
+    - title: "Character State Space Partitioning in Phylogenetic Analyses from Discrete Data (Poster)"
+      institution: "Khakurel B., Grigsby C., Tran T., Wright A.M. · LBRN 18th Annual Meeting, Baton Rouge, LA, USA"
+      year: 2020
+    - title: "Modeling Morphological State Space (Poster)"
+      institution: "Khakurel B., Grigsby C., Wright A.M. · Society of Systematic Biologists Meeting, Gainesville, FL, USA"
+      year: 2020
+    - title: "The Role of Honors Student Organizations in Building and Sustaining a Robust Honors Presence on Campus"
+      institution: "Khakurel B., Rocquin V., Litolff J. · Southern Regional Honors Council Conference, Memphis, TN, USA"
+      year: 2019
+
+- title: Awards, Fellowships & Grants
+  type: time_table
+  contents:
+    - title: SSB Travel Award
+      institution: Society of Systematic Biologists
+      year: 2023
+    - title: Distinguished Graduate Fellowship
+      institution: Southeastern Louisiana University
+      year: 2022
+    - title: Graduate Research Fellowship (USD 8,000)
+      institution: Louisiana Biomedical Research Network
+      year: 2022
+    - title: David Ware Outstanding International Student Award
+      institution: Southeastern Louisiana University
+      year: 2021
+    - title: Outstanding Senior Award
+      institution: Southeastern Louisiana University
+      year: 2021
+    - title: Dr. Marvin L. Yates Award of Excellence
+      institution: Southeastern Louisiana University
+      year: 2021
+    - title: Sophomore Honors Distinction
+      institution: Southeastern Louisiana University
+      year: 2019
+
+- title: Workshops & Training
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - A Primer for Phylogenetic Causal Inference Workshop
+        - Generalized Bayesian Phylogenetics to Infer Simultaneous and Multifurcating Divergences
+    - year: 2025
+      items:
+        - Phylogenetic Methods for Historical Biogeography
+        - Visualizing Science Workshop Series
     - year: 2024
       items:
         - Navigating Scientific Publishing - Early Career Focus (3rd Joint Congress on Evolutionary Biology)
@@ -58,12 +238,50 @@
         - PhylogatR workshop (Pembroke, VA)
     - year: 2020
       items:
-        - Posterior Predictive Simulation with P2C2M workshop (SSB Meeting Gainesville, FL)
+        - Posterior Predictive Simulation with P2C2M workshop (SSB Meeting, Gainesville, FL)
+
+- title: Service & Outreach
+  type: time_table
+  contents:
+    - title: Project Contributor
+      institution: Himalayan Pariwar e.V., Munich, Germany
+      year: 2024 - Present
+      description:
+        - Empowering accessible education in Nepal
+    - title: President
+      institution: Nepalese Student Association at Southeastern, Hammond, LA, USA
+      year: 2018 - 2022
+    - title: Planning Committee
+      institution: Louisiana Sci-Comm Summit, Baton Rouge, LA, USA
+      year: 2021
+    - title: Vice President
+      institution: Phi Kappa Phi Honor Society, Hammond, LA, USA
+      year: 2020 - 2021
+    - title: Ambassador
+      institution: Honors Program at Southeastern, Hammond, LA, USA
+      year: 2019 - 2021
+    - title: Leadership Ambassador
+      institution: Division of Student Affairs at Southeastern, Hammond, LA, USA
+      year: 2019 - 2020
+    - title: Senator
+      institution: Student Government Association at Southeastern, Hammond, LA, USA
+      year: 2019
+    - title: Volunteer Judge
+      institution: Southeastern Lab School Science Fair, Hammond, LA, USA
+      year: 2018
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - Society for the Study of Evolution (SSE)
+    - Society of Systematic Biologists (SSB)
 
 - title: Academic Interests
   type: list
   contents:
     - Bayesian Phylogenetics
-    - Morphological Models
+    - Morphological Models of Evolution
+    - Heterotachy and Among-Character Rate Variation
+    - Fossil Tip-Dating and Total-Evidence Dating
+    - Posterior Predictive Model Adequacy
     - Species Delimitation
-    - Phylogeny Inference
