@@ -8,99 +8,80 @@ nav_order: 6
 
 I sometimes like to take pictures. Here are some of my favorites.
 
-<div class="row">
+<style>
+  .gallery {
+    column-count: 3;
+    column-gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  .gallery figure {
+    break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    margin: 0 0 1rem;
+  }
+  .gallery figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  @media (max-width: 992px) {
+    .gallery { column-count: 2; }
+  }
+  @media (max-width: 576px) {
+    .gallery { column-count: 1; }
+  }
+</style>
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/bhairab.jpg" class="img-fluid rounded" zoomable="true" caption="Bhairab statue at Basantapur Durbar Square, Kathmandu." %}
-  </div>
+<div class="gallery">
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/palanchok.jpg" class="img-fluid rounded" zoomable="true" caption="Palanchok Bhagwati temple in Kavrepalanchok." %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/bhairab.jpg" class="img-fluid rounded" zoomable="true" caption="Bhairab statue at Basantapur Durbar Square, Kathmandu." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/manakamana.jpg" class="img-fluid rounded" zoomable="true" caption="Manakamana temple in Gorkha." %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/palanchok.jpg" class="img-fluid rounded" zoomable="true" caption="Palanchok Bhagwati temple in Kavrepalanchok." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/prague_1.jpg" class="img-fluid rounded" zoomable="true" caption="Charles bridge and Prague castle." %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/manakamana.jpg" class="img-fluid rounded" zoomable="true" caption="Manakamana temple in Gorkha." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/sunrise_strawberry.jpg" class="img-fluid rounded" zoomable="true" caption="Sunrise over Strawberry Stadium at Southeastern Louisiana University." %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/prague_1.jpg" class="img-fluid rounded" zoomable="true" caption="Charles bridge and Prague castle." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/sunset_galva.jpg" class="img-fluid rounded" zoomable="true" caption="Sunset over Galva Canal, Manchac." %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/sunrise_strawberry.jpg" class="img-fluid rounded" zoomable="true" caption="Sunrise over Strawberry Stadium at Southeastern Louisiana University." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/azalea_1.JPG" class="img-fluid rounded" zoomable="true" caption="Azalea" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/sunset_galva.jpg" class="img-fluid rounded" zoomable="true" caption="Sunset over Galva Canal, Manchac." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/garter_fountainbleau.jpg" class="img-fluid rounded" zoomable="true" caption="A baby garter snake in Fountainbleu State Park, Madisonville, LA." %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/azalea_1.JPG" class="img-fluid rounded" zoomable="true" caption="Azalea" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/neuschwanstein.jpg" class="img-fluid rounded" zoomable="true" caption="Schloss Neuschwanstein" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/garter_fountainbleau.jpg" class="img-fluid rounded" zoomable="true" caption="A baby garter snake in Fountainbleu State Park, Madisonville, LA." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/swayambhu.jpg" class="img-fluid rounded" zoomable="true" caption="Swayambhunath Stupa, Kathmandu" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/neuschwanstein.jpg" class="img-fluid rounded" zoomable="true" caption="Schloss Neuschwanstein" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/basilisk.jpg" class="img-fluid rounded" zoomable="true" caption="Basilisk" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/swayambhu.jpg" class="img-fluid rounded" zoomable="true" caption="Swayambhunath Stupa, Kathmandu" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/manakamana_mountains.jpg" class="img-fluid rounded" zoomable="true" caption="Above the clouds." %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/basilisk.jpg" class="img-fluid rounded" zoomable="true" caption="Basilisk" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/sagrada.jpg" class="img-fluid rounded" zoomable="true" caption="Sagrada Familia, Barcelona." %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/manakamana_mountains.jpg" class="img-fluid rounded" zoomable="true" caption="Above the clouds." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/panchdhara.jpg" class="img-fluid rounded" zoomable="true" caption="सुनौलो आकाश, मन्दिर पुरातन, गेरू वस्त्रमा पुजारी, शान्ति अपार।" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/sagrada.jpg" class="img-fluid rounded" zoomable="true" caption="Sagrada Familia, Barcelona." %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/patan.jpg" class="img-fluid rounded" zoomable="true" caption="Patan Durbar Square" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/panchdhara.jpg" class="img-fluid rounded" zoomable="true" caption="सुनौलो आकाश, मन्दिर पुरातन, गेरू वस्त्रमा पुजारी, शान्ति अपार।" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/allianz.jpg" class="img-fluid rounded" zoomable="true" caption="Euro Cup at Allianz Arena" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/patan.jpg" class="img-fluid rounded" zoomable="true" caption="Patan Durbar Square" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/plansee.jpg" class="img-fluid rounded" zoomable="true" caption="Plansee" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/allianz.jpg" class="img-fluid rounded" zoomable="true" caption="Euro Cup at Allianz Arena" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/dobby.jpg" class="img-fluid rounded" zoomable="true" caption="Dobby" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/plansee.jpg" class="img-fluid rounded" zoomable="true" caption="Plansee" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/peacock.JPG" class="img-fluid rounded" zoomable="true" caption="Peacock" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/dobby.jpg" class="img-fluid rounded" zoomable="true" caption="Dobby" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/firework_1.JPG" class="img-fluid rounded" zoomable="true" caption="" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/peacock.JPG" class="img-fluid rounded" zoomable="true" caption="Peacock" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/firework_2.JPG" class="img-fluid rounded" zoomable="true" caption="" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/firework_1.JPG" class="img-fluid rounded" zoomable="true" caption="" %}
 
-  <div class="col-md-4 mb-4">
-    {% include figure.liquid path="assets/img/photos/firework_3.JPG" class="img-fluid rounded" zoomable="true" caption="" %}
-  </div>
+  {% include figure.liquid path="assets/img/photos/firework_2.JPG" class="img-fluid rounded" zoomable="true" caption="" %}
 
-## </div>
+  {% include figure.liquid path="assets/img/photos/firework_3.JPG" class="img-fluid rounded" zoomable="true" caption="" %}
+
+</div>
 
 <p class="text-center text-muted">
-  My instagram can be found <a href="https://www.instagram.com/khakurelbasanta/">here.</a> 
+  My instagram can be found <a href="https://www.instagram.com/khakurelbasanta/">here.</a>
   I update pictures there as well :).
 </p>
